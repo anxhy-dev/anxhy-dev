@@ -21,5 +21,4 @@
 <hr/>
 
 <!-- badgets -->
-![](https://komarev.com/ghpvc/?username=anxhy-dev&abbreviated=true&color=ff69b4)
 ![Last commit](https://img.shields.io/github/last-commit/anxhy-dev/anxhy-dev?color=000&labelColor=444)
