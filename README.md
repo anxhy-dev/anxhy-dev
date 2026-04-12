@@ -14,6 +14,12 @@
 
 </br>
 
+<!-- Random Dev Quote -->
+### Random Dev Quote
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+
+<hr/>
+
 <!-- badgets -->
 ![](https://komarev.com/ghpvc/?username=anxhy-dev&abbreviated=true&color=ff69b4)
 ![Last commit](https://img.shields.io/github/last-commit/anxhy-dev/anxhy-dev?color=000&labelColor=444)
