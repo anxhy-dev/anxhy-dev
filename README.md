@@ -6,6 +6,14 @@
   <img src="https://64.media.tumblr.com/bb7556c810e4adadbbcbc78458da4924/tumblr_mw9kukkie11shm32so2_500.gifv" width="100%" height="300" alt="Animated GIF" />
 </div>
 
+</br>
 
-![Last commit](https://img.shields.io/github/last-commit/anxhy-dev/anxhy-dev?color=000&labelColor=444)
+## List projects
+
+[EchoDaily](https://github.com/anxhy-dev/anxhy-dev/edit/main/README.md): Web/App Para práticar la escritura en Inglés.
+
+</br>
+
+<!-- badgets -->
 ![](https://komarev.com/ghpvc/?username=anxhy-dev&abbreviated=true&color=ff69b4)
+![Last commit](https://img.shields.io/github/last-commit/anxhy-dev/anxhy-dev?color=000&labelColor=444)
