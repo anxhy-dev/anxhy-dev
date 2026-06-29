@@ -10,7 +10,7 @@
 
 ## List projects
 
-[EchoDaily](https://github.com/anxhy-dev/anxhy-dev/edit/main/README.md): Web/App Para práticar la escritura en Inglés.
+[EchoDaily](https://echodaily.vercel.app): Web/App Para práticar la escritura en Inglés.
 
 </br>
 
