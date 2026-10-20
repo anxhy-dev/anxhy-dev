@@ -11,7 +11,7 @@
 ## List projects
 
 <!-- [EchoDaily](https://echodaily.vercel.app): Web/App Para práticar la escritura en Inglés. -->
-[USH](https://ush-web.vercel.app/) : Web/App for tracking habits and more -- (in progess).
+[USH](https://ush-web.vercel.app/) : Web/App for tracking habits and more.
 
 </br>
 
